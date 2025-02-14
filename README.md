@@ -1,5 +1,5 @@
 <div align="center">
-  ![my-space](https://github.com/user-attachments/assets/476f94bf-99aa-44b1-8e2e-6d8379402472)
+  <img src="https://github.com/user-attachments/assets/476f94bf-99aa-44b1-8e2e-6d8379402472" alt="Project Banner">
   <h3 align="center">My Space: A Modern Web Application</h3>
 </div>
 
