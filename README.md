@@ -3,6 +3,8 @@
   <img src="https://github.com/user-attachments/assets/476f94bf-99aa-44b1-8e2e-6d8379402472" alt="Project Banner">
 </div>
 
+<br />
+
 ## 📋 Table of Contents
 
 1. 🗂️ [Project Description](#project-description)
