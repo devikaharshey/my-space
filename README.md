@@ -11,19 +11,18 @@
    - 📋 [Prerequisites](#prerequisites)
    - 💾 [Installation](#installation)
    - 🌐 [Running the Development Server](#running-the-development-server)
-4. 📚 [Learn More](#learn-more)
-5. ☁️ [Deploy on Vercel](#deploy-on-vercel)
-6. 🤝 [Contributing](#contributing)
-7. 📄 [License](#license)
-8. 📬 [Contact](#contact)
+4. 🤝 [Contributing](#contributing)
+5. 📄 [License](#license)
 
 ## 🗂️ Project Description
 
-My Space is a full-stack web application that works like Google Drive. It lets you upload, organize, and share files easily. Built with Next.js, TypeScript, and Tailwind CSS, it offers a modern and responsive user experience. With My Space, you can manage your files seamlessly, making it an excellent tool for personal and professional use.
+<div id="project-description">
+  <span style="font-weight: bold">MySpace</span> is a full-stack web application that works like Google Drive. It lets you upload, organize, and share files easily. Built with Next.js, TypeScript, and Tailwind CSS, it offers a modern and responsive user experience. With <span style="font-weight: bold">MySpace</span>, you can manage your files seamlessly, making it an excellent tool for personal and professional use.
+</div>
 
 ## 💻 Tech Stack
 
-<div>
+<div id="tech-stack">
   <img src="https://img.shields.io/badge/Next_.js-black?style=for-the-badge&logo=next.js" alt="Next.js">
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-lightblue?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
@@ -32,15 +31,18 @@ My Space is a full-stack web application that works like Google Drive. It lets y
 
 ## 🚀 Getting Started
 
-To get a local copy up and running, follow these steps:
+<div id="getting-started">To get a local copy up and running, follow these steps:</div>
 
 ### 📋 Prerequisites
 
+<div id="prerequisites">
 - Node.js
 - npm or yarn or pnpm or bun
+</div>
 
 ### 💾 Installation
 
+<div id="installation">
 1. Clone the repository:
     ```bash
     git clone https://github.com/devikaharshey/my-space.git
@@ -62,8 +64,11 @@ To get a local copy up and running, follow these steps:
     bun install
     ```
 
+</div>
+
 ### 🌐 Running the Development Server
 
+<div id="running-the-development-server">
 Start the development server:
 ```bash
 npm run dev
@@ -78,22 +83,11 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-## 📚 Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-## ☁️ Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app).
-
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+</div>
 
 ## 🤝 Contributing
 
+<div id="contributing">
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -101,7 +95,10 @@ Contributions are what make the open-source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+</div>
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+<div id="license">
+  Distributed under the MIT License. See `LICENSE` for more information.
+</div>
