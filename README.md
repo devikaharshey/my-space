@@ -17,7 +17,7 @@
 ## 🗂️ Project Description
 
 <div id="project-description">
-  <span style="font-weight: bold">MySpace</span> is a full-stack web application that works like Google Drive. It lets you upload, organize, and share files easily. Built with Next.js, TypeScript, and Tailwind CSS, it offers a modern and responsive user experience. With <span style="font-weight: bold">MySpace</span>, you can manage your files seamlessly, making it an excellent tool for personal and professional use.
+  <span style="font-weight: bold;">MySpace</span> is a full-stack web application that works like Google Drive. It lets you upload, organize, and share files easily. Built with Next.js, TypeScript, and Tailwind CSS, it offers a modern and responsive user experience. With <span style="font-weight: bold;">MySpace</span>, you can manage your files seamlessly, making it an excellent tool for personal and professional use.
 </div>
 
 ## 💻 Tech Stack
@@ -36,8 +36,8 @@
 ### 📋 Prerequisites
 
 <div id="prerequisites">
-- Node.js
-- npm or yarn or pnpm or bun
+  - Node.js <br/>
+  - npm or yarn or pnpm or bun
 </div>
 
 ### 💾 Installation
@@ -46,9 +46,7 @@
 1. Clone the repository:
   
     ```bash
-    
     git clone https://github.com/devikaharshey/my-space.git
-    
     ```
 
 2. Navigate to the project directory:
