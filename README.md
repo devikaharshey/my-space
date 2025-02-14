@@ -17,7 +17,7 @@
 ## 🗂️ Project Description
 
 <div id="project-description">
-  <span style="color: blue;">MySpace</span> is a full-stack web application that works like Google Drive. It lets you upload, organize, and share files easily. Built with Next.js, TypeScript, and Tailwind CSS, it offers a modern and responsive user experience. With <span style="color: blue;">MySpace</span>, you can manage your files seamlessly, making it an excellent tool for personal and professional use.
+  **MySpace** is a full-stack web application that works like Google Drive. It lets you upload, organize, and share files easily. Built with Next.js, TypeScript, and Tailwind CSS, it offers a modern and responsive user experience. With **MySpace**, you can manage your files seamlessly, making it an excellent tool for personal and professional use.
 </div>
 
 ## 💻 Tech Stack
@@ -43,7 +43,7 @@
 ### 💾 Installation
 
 <div id="installation">
-1. Clone the repository:
+  1. Clone the repository:
   
     ```bash
     git clone https://github.com/devikaharshey/my-space.git
@@ -92,13 +92,12 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 ## 🤝 Contributing
 
 <div id="contributing">
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+  Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+  1. Fork the Project
+  2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+  3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+  4. Push to the Branch (`git push origin feature/AmazingFeature`)
+  5. Open a Pull Request
 </div>
 
 ## 📄 License
