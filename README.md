@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/476f94bf-99aa-44b1-8e2e-6d8379402472" alt="Project Banner">
-  <h3 align="center">**MySpace - Your personal storage space!**</h3>
+  <h2 align="center">MySpace - Your personal storage space!</h2>
 </div>
 
 ## 📋 Table of Contents
