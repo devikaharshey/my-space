@@ -5,22 +5,25 @@
 
 ## 📋 Table of Contents
 
-1. 🤖 [Project Description](#project-description)
-2. 🚀 [Getting Started](#getting-started)
+1. 🗂️ [Project Description](#project-description)
+2. 💻 [Tech Stack](#tech-stack)
+3. 🚀 [Getting Started](#getting-started)
    - 📋 [Prerequisites](#prerequisites)
    - 💾 [Installation](#installation)
-   - 🖥️ [Running the Development Server](#running-the-development-server)
-3. 📚 [Learn More](#learn-more)
-4. ☁️ [Deploy on Vercel](#deploy-on-vercel)
-5. 🤝 [Contributing](#contributing)
-6. 📄 [License](#license)
-7. 📬 [Contact](#contact)
+   - 🌐 [Running the Development Server](#running-the-development-server)
+4. 📚 [Learn More](#learn-more)
+5. ☁️ [Deploy on Vercel](#deploy-on-vercel)
+6. 🤝 [Contributing](#contributing)
+7. 📄 [License](#license)
+8. 📬 [Contact](#contact)
 
-## 🤖 Project Description
+## 🗂️ Project Description
 
 My Space is a full-stack web application that works like Google Drive. It lets you upload, organize, and share files easily. Built with Next.js, TypeScript, and Tailwind CSS, it offers a modern and responsive user experience. With My Space, you can manage your files seamlessly, making it an excellent tool for personal and professional use.
 
-<div align="center">
+## 💻 Tech Stack
+
+<div>
   <img src="https://img.shields.io/badge/Next_.js-black?style=for-the-badge&logo=next.js" alt="Next.js">
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-lightblue?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
@@ -59,7 +62,7 @@ To get a local copy up and running, follow these steps:
     bun install
     ```
 
-### 🖥️ Running the Development Server
+### 🌐 Running the Development Server
 
 Start the development server:
 ```bash
