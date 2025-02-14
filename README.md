@@ -4,6 +4,7 @@
 </div>
 
 <br />
+<br />
 
 ## 📋 Table of Contents
 
@@ -15,6 +16,8 @@
    - 🌐 [Running the Development Server](#running-the-development-server)
 4. 🤝 [Contributing](#contributing)
 5. 📄 [License](#license)
+
+<br />
 
 ## 🗂️ Project Description
 
