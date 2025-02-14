@@ -17,7 +17,7 @@
 ## 🗂️ Project Description
 
 <div id="project-description">
-  <span style="font-weight: bold;">MySpace</span> is a full-stack web application that works like Google Drive. It lets you upload, organize, and share files easily. Built with Next.js, TypeScript, and Tailwind CSS, it offers a modern and responsive user experience. With <span style="font-weight: bold;">MySpace</span>, you can manage your files seamlessly, making it an excellent tool for personal and professional use.
+  <span style="color: blue;">MySpace</span> is a full-stack web application that works like Google Drive. It lets you upload, organize, and share files easily. Built with Next.js, TypeScript, and Tailwind CSS, it offers a modern and responsive user experience. With <span style="color: blue;">MySpace</span>, you can manage your files seamlessly, making it an excellent tool for personal and professional use.
 </div>
 
 ## 💻 Tech Stack
