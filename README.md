@@ -44,16 +44,19 @@
 
 <div id="installation">
 1. Clone the repository:
+  
     ```bash
     git clone https://github.com/devikaharshey/my-space.git
     ```
 
 2. Navigate to the project directory:
+
     ```bash
     cd my-space
     ```
 
 3. Install dependencies:
+   
     ```bash
     npm install
     # or
@@ -70,6 +73,7 @@
 
 <div id="running-the-development-server">
 Start the development server:
+  
 ```bash
 npm run dev
 # or
