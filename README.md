@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/476f94bf-99aa-44b1-8e2e-6d8379402472" alt="Project Banner">
-  <h3 align="center">My Space: A Modern Web Application</h3>
+  <h3 align="center">MySpace - Your personal storage space!</h3>
 </div>
 
 ## 📋 Table of Contents
@@ -18,7 +18,14 @@
 
 ## 🤖 Project Description
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). It leverages TypeScript and Tailwind CSS to deliver a modern, responsive web application.
+My Space is a full-stack web application that works like Google Drive. It lets you upload, organize, and share files easily. Built with Next.js, TypeScript, and Tailwind CSS, it offers a modern and responsive user experience. With My Space, you can manage your files seamlessly, making it an excellent tool for personal and professional use.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
+</div>
 
 ## 🚀 Getting Started
 
